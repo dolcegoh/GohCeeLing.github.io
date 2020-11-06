@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### ASSOCIATE DATA ANALYST - CAPSTONE PROJECT 1
 
 [Resales Flat - Trend & Date](/sample_page)
 <img src="images/Project 1.png?raw=true"/>
