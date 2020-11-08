@@ -1,7 +1,7 @@
 title: Goh Cee Ling # your name (or website title) here
 logo: "/images/Photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Project 1<br>
+  Project 1<br><br>
   Learned & Put into Practice
   - Power Query
   - Pivot table and Charts
