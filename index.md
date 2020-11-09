@@ -13,8 +13,11 @@
 
 ### ASSOCIATE DATA ANALYST - CAPSTONE PROJECT 2
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
+[Bank Term Deposit](/pdf/sample_presentation.pdf)
+<img src="images/Project 2_SQL.png?raw=true"/>
+<img src="images/Project 2_DB1.png?raw=true"/>
+<img src="images/Project 2_DB2.png?raw=true"/>
+<img src="images/Project 2_DB3.png?raw=true"/>
 
 ---
 
