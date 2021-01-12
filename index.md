@@ -21,6 +21,17 @@
 
 ---
 
+### ASSOCIATE DATA ANALYST - CAPSTONE PROJECT 3
+
+[Small Area Health Insurance Estimates](/pdf/sample_presentation.pdf)
+<img src="images/Project 3.1.jpg?raw=true"/>
+<img src="images/Project 3.2.jpg?raw=true"/>
+<img src="images/Project 3.3.jpg?raw=true"/>
+<img src="images/Project 3.4.jpg?raw=true"/>
+
+---
+
+
 
 ### Category Name 2
 
