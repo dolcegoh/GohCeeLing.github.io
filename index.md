@@ -38,10 +38,6 @@
 <img src="images/Project 4.2.jpg?raw=true"/>
 <img src="images/Project 4.3.jpg?raw=true"/>
 <img src="images/Project 4.4.jpg?raw=true"/>
-<img src="images/Project 4.5.jpg?raw=true"/>
-<img src="images/Project 4.6.jpg?raw=true"/>
-<img src="images/Project 4.7.jpg?raw=true"/>
-<img src="images/Project 4.8.jpg?raw=true"/>
 
 ---
 
@@ -51,8 +47,6 @@
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
