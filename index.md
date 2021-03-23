@@ -31,6 +31,19 @@
 
 ---
 
+### ASSOCIATE DATA ANALYST - CAPSTONE PROJECT 4
+
+[Predicting the resale HDB flat price](/pdf/sample_presentation.pdf)
+<img src="images/Project 4.1.jpg?raw=true"/>
+<img src="images/Project 4.2.jpg?raw=true"/>
+<img src="images/Project 4.3.jpg?raw=true"/>
+<img src="images/Project 4.4.jpg?raw=true"/>
+<img src="images/Project 4.5.jpg?raw=true"/>
+<img src="images/Project 4.6.jpg?raw=true"/>
+<img src="images/Project 4.7.jpg?raw=true"/>
+<img src="images/Project 4.8.jpg?raw=true"/>
+
+---
 
 
 ### Category Name 2
